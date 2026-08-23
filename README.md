@@ -2,6 +2,8 @@
 
 Personal ZMK configuration for a Typeractive wireless Corne with nice!view displays.
 
+![Typeractive wireless Corne with nice!view displays](assets/typeractive-corne.jpg)
+
 Based on:
 
 - [Typeractive’s Corne wireless nice!view template](https://github.com/typeractivexyz/corne-wireless-view-zmk-config)
